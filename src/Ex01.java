@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Ex01 {
     public static void main(String[] args) {
+        //Classe File e uma representacao abstrata do arquivo e seu caminho
     File file = new File("C:\\Users\\felip\\OneDrive\\Documento\\Desinvolvimento\\temp\\ws-intellj\\file-java\\src\\in.txt");
         Scanner sc = null;
         try {
