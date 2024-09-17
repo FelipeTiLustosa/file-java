@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Program {
+public class Ex01 {
     public static void main(String[] args) {
     File file = new File("C:\\Users\\felip\\OneDrive\\Documento\\Desinvolvimento\\temp\\ws-intellj\\file-java\\src\\in.txt");
         Scanner sc = null;
